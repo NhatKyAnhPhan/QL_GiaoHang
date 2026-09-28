@@ -1,0 +1,49 @@
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\DoAn\DoAn\obj\Debug\DoAn.UI.DangNhap.resources
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\DoAn\DoAn\obj\Debug\DoAn.UI.ChuongTrinh.resources
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\DoAn\DoAn\obj\Debug\DoAn.UI.FormDoiMatKhau.resources
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\DoAn\DoAn\obj\Debug\DoAn.UI.FormGiaoHang.resources
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\DoAn\DoAn\obj\Debug\DoAn.UI.FormKhachHang.resources
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\DoAn\DoAn\obj\Debug\DoAn.UI.FormNhaHang.resources
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.UI.DangNhap.resources
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.UI.ChuongTrinh.resources
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.UI.FormDoiMatKhau.resources
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.UI.FormGiaoHang.resources
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.UI.FormKhachHang.resources
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.UI.FormNhaHang.resources
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\HQTCSDL_Nhom9\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\HQTCSDL_Nhom9\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\HQTCSDL_Nhom9\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.UI.FormDatHang.resources
+C:\Users\T&T Center\Downloads\14DHTH14\.Net\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.UI.FormMonAn.resources
+E:\HQTCSDL_Nhom9\DoAn\DoAn\bin\Debug\DoAn.exe.config
+E:\HQTCSDL_Nhom9\DoAn\DoAn\bin\Debug\DoAn.exe
+E:\HQTCSDL_Nhom9\DoAn\DoAn\bin\Debug\DoAn.pdb
+E:\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+E:\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+E:\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.UI.DangNhap.resources
+E:\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.UI.ChuongTrinh.resources
+E:\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.UI.FormDatHang.resources
+E:\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.UI.FormDoiMatKhau.resources
+E:\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.UI.FormGiaoHang.resources
+E:\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.UI.FormKhachHang.resources
+E:\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.UI.FormMonAn.resources
+E:\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.UI.FormNhaHang.resources
+E:\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+E:\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+E:\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.exe
+E:\HQTCSDL_Nhom9\DoAn\DoAn\obj\Debug\DoAn.pdb
